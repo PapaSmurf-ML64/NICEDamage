@@ -54,9 +54,9 @@ namespace NICEDamage
                         {
                             text2.Append(" NICE ");
                         }
-                        else if (valStr.EndsWith("67"))
+                        else if (valStr.EndsWith("420"))
                         {
-                            text2.Append(" SIX SEVEEEEEN ");
+                            text2.Append(" BLAZE IT ");
                         }
                         break;
                     }
